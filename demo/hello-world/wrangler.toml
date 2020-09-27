@@ -1,4 +1,4 @@
-name = "xstatic-demo"
+name = "static2js-demo"
 type = "webpack"
 account_id = "5d9bd5366a03370782d3924b091ef26e"
 workers_dev = true
